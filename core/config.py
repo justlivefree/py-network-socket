@@ -1,0 +1,12 @@
+# defaults
+PORT = 5051
+LEAVE_CHAT = b'/quit'
+CLIENT_ID_SIZE = 6
+
+# sizes
+FILE_CHUNK_SIZE = 4096
+MSG_SIZE = 1024
+
+# types
+FILE_MSG = 46
+TEXT_MSG = 77

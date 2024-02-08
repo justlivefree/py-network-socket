@@ -5,7 +5,7 @@
 
 ---
 
-For using as core. So you can use this package in GUI and CLI libraries or frameworks.
+For using as core. So you can use this package in GUI or CLI app.
 <br>
 "send_file()" method is for file sharing, and you cannot use this method while chatting.
 
